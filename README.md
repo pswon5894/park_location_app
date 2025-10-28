@@ -5,13 +5,13 @@
 ## 요구사항 분석
 사용자가 차량을 공유 사용시 차량 주차 위치를 공유한다
 
-### UI/UX
+## UI/UX
 주차 위치가 마커로 표시된 화면
 
 ![](https://github.com/pswon5894/park_location_app/blob/master/%EC%B4%88%EA%B8%B0%20%ED%99%94%EB%A9%B4.jpg)앱 초기화면 | ![](https://github.com/pswon5894/park_location_app/blob/master/%EA%B3%B5%EC%9C%A0%20%EC%8B%9C%EB%8F%84.jpg)링크 공유 | ![](https://github.com/pswon5894/park_location_app/blob/master/%EA%B3%B5%EC%9C%A0%20%EB%A7%81%ED%81%AC.jpg)링크 작동
 ---|---|---|
 
-### 사용 시나리오
+## 사용 시나리오
 
 켜면 지도가 나오는 화면
 
@@ -21,7 +21,10 @@
 
 구글맵스에서 현재 위치를 볼수 있음
 
-#### 기타
+## 마치며
+데이터 베이스를 이용해 로그인 하여 주차 시간과 마지막 장소를 서버에 저장하여 공유도 가능해보인다
+
+### 기타
 
 https://docs.fleaflet.dev/
 
