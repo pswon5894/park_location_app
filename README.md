@@ -2,15 +2,14 @@
 
 주차 위치 공유 앱
 
+## 요구사항 분석
+사용자가 차량을 공유 사용시 차량 주차 위치를 공유한다
+
+### UI/UX
+주차 위치가 마커로 표시된 화면
+
 ![](https://github.com/pswon5894/park_location_app/blob/master/%EC%B4%88%EA%B8%B0%20%ED%99%94%EB%A9%B4.jpg)앱 초기화면 | ![](https://github.com/pswon5894/park_location_app/blob/master/%EA%B3%B5%EC%9C%A0%20%EC%8B%9C%EB%8F%84.jpg)링크 공유 | ![](https://github.com/pswon5894/park_location_app/blob/master/%EA%B3%B5%EC%9C%A0%20%EB%A7%81%ED%81%AC.jpg)링크 작동
 ---|---|---|
-
-## Getting Started
-
-프레임워크   flutter
-언어          dart
-
-flutter_map 패키지 사용, api key 불필요
 
 ### 사용 시나리오
 
