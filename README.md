@@ -30,7 +30,7 @@ https://play.google.com/store/apps/details?id=com.pswon.location_share_app
 
 ## 마치며
 
-비공개 테스터 12명 모집 또는 사업자 계정 생성(주소 노출) 이 부담스러웠다
+앱 출시 과정에서 비공개 테스터 12명 모집 또는 사업자 계정 생성(주소 노출) 이 부담스러웠다
 
 추가 고려 사항
 
