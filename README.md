@@ -2,6 +2,9 @@
 
 주차 위치 공유 앱
 
+안드로이드 플레이스토어 다운로드 링크
+https://play.google.com/store/apps/details?id=com.pswon.location_share_app
+
 ## 개발 동기
 어머니와 이모가 차를 공유하는데, 주차 위치를 기억 못하거나 설명을 못해서
 주차 위치를 기록하고 공유하는 앱을 만들게 되었다
