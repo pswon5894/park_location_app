@@ -24,12 +24,13 @@ https://play.google.com/store/apps/details?id=com.pswon.location_share_app
 
 공유 버튼으로 링크 주소를 텍스트로 만들어 문자등을 보낼수 있음
 
-구글맵스에서 현재 위치를 볼수 있음
+구글맵스에서 현재 위치 및 로드뷰를 볼수 있음
 
 ## 마치며
 추가 고려 사항
 
 데이터 베이스를 이용해 로그인 하여 주차 시간과 마지막 장소를 서버에 저장하여 아이디를 사용한 공유 기능도 추가 고려 해볼만 하다
+(express, mongodb/ firebase)
 
 주변 공영 주차장 api를 추가해서 탐색 기능
 
