@@ -2,6 +2,8 @@
 
 주차 위치 공유 앱 (안드로이드, 플러터)
 
+# 앱 출시
+
 안드로이드 플레이스토어 다운로드 링크
 https://play.google.com/store/apps/details?id=com.pswon.location_share_app
 
