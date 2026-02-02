@@ -10,7 +10,7 @@ https://play.google.com/store/apps/details?id=com.pswon.location_share_app
 주차 위치를 기록하고 공유하는 앱을 만들게 되었다
 
 ## UI/UX
-주차 위치가 마커로 표시된 화면
+주차 위치가 마커로 표시된 지도 화면
 위치 기록 버튼과 공유 버튼
 
 ![](https://github.com/pswon5894/park_location_app/blob/master/%EC%B4%88%EA%B8%B0%20%ED%99%94%EB%A9%B4.jpg)앱 초기화면 | ![](https://github.com/pswon5894/park_location_app/blob/master/%EA%B3%B5%EC%9C%A0%20%EC%8B%9C%EB%8F%84.jpg)링크 공유 | ![](https://github.com/pswon5894/park_location_app/blob/master/%EA%B3%B5%EC%9C%A0%20%EB%A7%81%ED%81%AC.jpg)링크 작동
@@ -22,16 +22,16 @@ https://play.google.com/store/apps/details?id=com.pswon.location_share_app
 
 위치 버튼을 누르면 현재 위치가 지도에 마크 표시됨
 
-공유 버튼으로 링크를 만들어 보내
+공유 버튼으로 링크 주소를 텍스트로 만들어 문자등을 보낼수 있음
 
 구글맵스에서 현재 위치를 볼수 있음
 
 ## 마치며
 추가 고려 사항
 
-데이터 베이스를 이용해 로그인 하여 주차 시간과 마지막 장소를 서버에 저장하여 공유도 가능해보인다
+데이터 베이스를 이용해 로그인 하여 주차 시간과 마지막 장소를 서버에 저장하여 아이디를 사용한 공유 기능도 추가 고려 해볼만 하다
 
-주변 무료 주차장 탐색 기능
+주변 공영 주차장 api를 추가해서 탐색 기능
 
 ### 기타
 
